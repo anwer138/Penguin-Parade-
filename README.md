@@ -52,9 +52,9 @@
 
 ## Demo
 
-> _Add your YouTube / Streamable link here once the video is uploaded._
+[![Penguin Parade — gameplay demo](docs/screenshots/main-menu.png)](https://youtube.com/shorts/bfN6id-ItBo)
 
-`▶ Watch a 60‑second gameplay clip:` *(link pending)*
+▶ **[Watch the gameplay demo on YouTube](https://youtube.com/shorts/bfN6id-ItBo)**
 
 ## How to Try It
 
