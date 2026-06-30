@@ -56,32 +56,12 @@
 
 ▶ **[Watch the gameplay demo on YouTube](https://youtube.com/shorts/bfN6id-ItBo)**
 
-## How to Try It
-
-The simplest way to play is to **side‑load the prebuilt APK** onto a Meta Quest 3:
-
-1. Download `Penguin-Parade.apk` from the [Releases](../../releases) tab of this repository.
-2. Put your Quest 3 into [developer mode](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/) and connect it over USB.
-3. Install with [SideQuest](https://sidequestvr.com/) (drag and drop the APK) **or** with `adb`:
-   ```bash
-   adb install Penguin-Parade.apk
-   ```
-4. Launch the app from the headset's *Unknown Sources* library.
-
-> A Meta Quest 3 is required for full body‑tracking fidelity (Movement SDK 4.3 features). Earlier Quest devices may run the game but with reduced tracking quality.
-
-## Project Report
-
-The full internship report — context, methodology, UML diagrams, technology choices, implementation notes, and testing — is available as a PDF:
-
-📄 [**`docs/RapportDeStage.pdf`**](docs/RapportDeStage.pdf)
 
 ## Source Code Access
 
 The Unity source code, scenes, and assets are kept in a private repository. If you are a recruiter, hiring manager, or collaborator and would like to discuss the code:
 
 - 📧 Reach me at **anwerbouharb01@gmail.com**
-- 💼 *(LinkedIn / portfolio site links — add yours)*
 
 I'm happy to walk through specific systems (body‑tracking pipeline, level managers, comfort/performance tuning) on a call, share targeted code excerpts, or grant private‑repo access on a case‑by‑case basis.
 
